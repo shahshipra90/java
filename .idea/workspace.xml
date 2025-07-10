@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2c5b2c30-3775-4f2f-b74a-976307515d4b" name="Changes" comment="Task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/student.class" afterDir="false" />
     </list>
+=======
+    <list default="true" id="2c5b2c30-3775-4f2f-b74a-976307515d4b" name="Changes" comment="Task" />
+>>>>>>> 572b85c953d1abf30e0eea50206e4426f79f0cbf
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -35,6 +40,20 @@
     &quot;accountId&quot;: &quot;2a3e65d3-7846-47ba-b957-831574609424&quot;
   }
 }</component>
+=======
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shahshipra90"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shahshipra90/java.git",
+    "accountId": "2a3e65d3-7846-47ba-b957-831574609424"
+  }
+}]]></component>
+>>>>>>> 572b85c953d1abf30e0eea50206e4426f79f0cbf
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -47,6 +66,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -112,6 +132,19 @@
       <method v="2" />
     </configuration>
   </component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+>>>>>>> 572b85c953d1abf30e0eea50206e4426f79f0cbf
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2c5b2c30-3775-4f2f-b74a-976307515d4b" name="Changes" comment="" />
